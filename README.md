@@ -33,3 +33,5 @@
 | Frequency              | Radio frequency (GHz)                      |
 | LOS status             | LOS status (1:LOS, 0:nLOS)                 |
 | Path loss              | Path loss (dB)                             |
+| 3GPP Path loss         | Path loss prediction result by using 3GPP model(dB)                             |
+
